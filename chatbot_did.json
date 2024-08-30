@@ -8,8 +8,8 @@
     "publicKeyJwk": {
       "kty": "EC",
       "crv": "secp256k1",
-      "x": "PLXa8cbf+Bsij/69VrGbZaQaFqmLMYER2xxE/dSCAoA=",
-      "y": "DFeXhe2AEfPphbQF/0/4Mr136lq1h1huxCdNxyzXO4U="
+      "x": "jOpisgMUCbe5zpKbpsP/V9l0KjhcfrMFyQUBS7NI7wo=",
+      "y": "0+ruhkCqiCLlCcifi5Rb19FxF6EhSGQS0faY9iOOWuw="
     }
   }],
   "authentication": ["did:web:WooyoungSon.github.io:chatbot#owner"],
