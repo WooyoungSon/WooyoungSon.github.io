@@ -6,6 +6,7 @@
     "type": "JsonWebKey2020",
     "controller": "did:web:WooyoungSon.github.io:chatbot",
     "publicKeyJwk": {
+      "Public": "048cea62b2031409b7b9ce929ba6c3ff57d9742a385c7eb305c905014bb348ef0ad3eaee8640aa8822e509c89f8b945bd7d17117a121486412d1f698f6238e5aec",
       "kty": "EC",
       "crv": "secp256k1",
       "x": "jOpisgMUCbe5zpKbpsP/V9l0KjhcfrMFyQUBS7NI7wo=",
