@@ -6,6 +6,7 @@
     "type": "JsonWebKey2020",
     "controller": "did:web:WooyoungSon.github.io:client",
     "publicKeyJwk": {
+      "Public": "04a7b6f32a0f90714fc894ad9d825974a1cb9698657f6a8a4dbd8f03f87076d58537b6c8605f0cd09e1371b58f85512bad510a759430812af2adf617ba281fabeb",
       "kty": "EC",
       "crv": "secp256k1",
       "x": "p7bzKg+QcU/IlK2dgll0ocuWmGV/aopNvY8D+HB21YU=",
