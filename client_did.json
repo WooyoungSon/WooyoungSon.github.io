@@ -8,8 +8,8 @@
     "publicKeyJwk": {
       "kty": "EC",
       "crv": "secp256k1",
-      "x": "PLXa8cbf+Bsij/69VrGbZaQaFqmLMYER2xxE/dSCAoA=",
-      "y": "DFeXhe2AEfPphbQF/0/4Mr136lq1h1huxCdNxyzXO4U="
+      "x": "p7bzKg+QcU/IlK2dgll0ocuWmGV/aopNvY8D+HB21YU=",
+      "y": "N7bIYF8M0J4TcbWPhVErrVEKdZQwgSryrfYXuigfq+s="
     }
   }],
   "authentication": ["did:web:WooyoungSon.github.io:client#owner"],
