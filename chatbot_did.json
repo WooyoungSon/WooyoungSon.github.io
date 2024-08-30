@@ -6,11 +6,11 @@
     "type": "JsonWebKey2020",
     "controller": "did:web:WooyoungSon.github.io:chatbot",
     "publicKeyJwk": {
-      "Public": "048cea62b2031409b7b9ce929ba6c3ff57d9742a385c7eb305c905014bb348ef0ad3eaee8640aa8822e509c89f8b945bd7d17117a121486412d1f698f6238e5aec",
+      "Public": "043168651e8c09a5225ebb25c33a62419a50b145fa8aa73d7b302c04415253c843d0fcb2a15e8c494fc252a9b41c1180f755b8921cd2c38515632a383ecc58453d",
       "kty": "EC",
       "crv": "secp256k1",
-      "x": "jOpisgMUCbe5zpKbpsP/V9l0KjhcfrMFyQUBS7NI7wo=",
-      "y": "0+ruhkCqiCLlCcifi5Rb19FxF6EhSGQS0faY9iOOWuw="
+      "x": "MWhlHowJpSJeuyXDOmJBmlCxRfqKpz17MCwEQVJTyEM=",
+      "y": "0PyyoV6MSU/CUqm0HBGA91W4khzSw4UVYyo4PsxYRT0="
     }
   }],
   "authentication": ["did:web:WooyoungSon.github.io:chatbot#owner"],
