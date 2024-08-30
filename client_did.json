@@ -6,11 +6,11 @@
     "type": "JsonWebKey2020",
     "controller": "did:web:WooyoungSon.github.io:client",
     "publicKeyJwk": {
-      "Public": "04a7b6f32a0f90714fc894ad9d825974a1cb9698657f6a8a4dbd8f03f87076d58537b6c8605f0cd09e1371b58f85512bad510a759430812af2adf617ba281fabeb",
+      "Public": "04844d6d650a3a2caa5407f8996b0d3ad2a5598e9e738ce84058ce1ae0d1111b666f0f76867c1285ce211be0bbac9efdace0632d6b56ea66346fc8d7443dd9e39b",
       "kty": "EC",
       "crv": "secp256k1",
-      "x": "p7bzKg+QcU/IlK2dgll0ocuWmGV/aopNvY8D+HB21YU=",
-      "y": "N7bIYF8M0J4TcbWPhVErrVEKdZQwgSryrfYXuigfq+s="
+      "x": "hE1tZQo6LKpUB/iZaw060qVZjp5zjOhAWM4a4NERG2Y=",
+      "y": "bw92hnwShc4hG+C7rJ79rOBjLWtW6mY0b8jXRD3Z45s="
     }
   }],
   "authentication": ["did:web:WooyoungSon.github.io:client#owner"],
